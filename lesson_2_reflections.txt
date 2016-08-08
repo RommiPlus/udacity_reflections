@@ -16,10 +16,14 @@ If we make any changes, we can add to satging area. And if we think we should co
 
 
 
-What are some situations when branches would be helpful in keeping your history
+3.What are some situations when branches would be helpful in keeping your history
 organized? 
+When you make some new features in a project. You can use them in branch.
+When you fix some bugs, you can make branch and fix them and then commit to master.
+When you work with others, and make product realse. you can work on your branch, and merge to master.
 
 How would branches help?
+Make someone's code not influence with others.
 
 How do the diagrams help you visualize the branch structure?
 
