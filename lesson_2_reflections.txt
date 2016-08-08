@@ -1,18 +1,36 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿1.What happens when you initialize a repository? Why do you need to do it?
+Create a new repository in server and local. Inital a space to store new file.
+
+
+
+2.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It is a buffer area. Like a collection point. working space is like a home, and repository like a working space. Before we go to work together, we can
+have a collection place.
 
-How can you use the staging area to make sure you have one commit per logical
+Before we put all things to commit together, we can select sth from them, and commit some of them.
+
+3.How can you use the staging area to make sure you have one commit per logical 
 change?
 
+
+
+
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? 
+
+How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
