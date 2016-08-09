@@ -34,5 +34,7 @@ Make a new commit, use git log command, we can see all the logs in master branch
 Because it make merged proccess more clear.
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+6.What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+It make sense by saving a lot of time. And leave the rest of work to people to slove it.
+
