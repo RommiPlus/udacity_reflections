@@ -28,9 +28,10 @@ Make someone's code not influence with others.
 Diagrams makes the commit logical clear and make the relationship of every commits clear.
 
 
-What is the result of merging two branches together? Why do we represent it in
+5.What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+Make a new commit, use git log command, we can see all the logs in master branch and merged branch even we delete merged brach label.
+Because it make merged proccess more clear.
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
