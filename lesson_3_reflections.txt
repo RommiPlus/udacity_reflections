@@ -10,3 +10,6 @@ forks: it only used in github, and when you have no permission to commit code on
 clones: when you want to copy a repository from local or server, you should use clones.
 
 branches: when you want to make some changed in code in current repository, but you don't want changed the master code.
+
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+We can find the difference between local commit with server commit.
